@@ -9,9 +9,9 @@
 ## 🛠️ Tools & Technologies
 
 **Languages**: Python, SQL  
-**Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn 
-**ML (Supervised)**: Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost
-**ML (Techniques & Unsupervised)**: K-Means, PCA, LDA, Clustering, SMOTE, SHAP, Model Tuning,Model Evaluation metrics
+**Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+**ML (Supervised)**: Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost  
+**ML (Techniques & Unsupervised)**: K-Means, PCA, LDA, Clustering, SMOTE, SHAP, Model Tuning, Evaluation Metrics  
 **Visualization**: Tableau (Public), Seaborn, Matplotlib  
 **Others**: Git, Jupyter Notebook
 
@@ -36,9 +36,9 @@ Interactive dashboards for insights & storytelling:
 
 ## 🧾 Certifications
 
-- 📜 IBM Data Science Professional Certificate (Coursera)  
-- 🥇 Super Intern – Top Performer at Edureka  
-- 📘 Machine Learning & Tableau – Edureka
+- 📜 IBM Data Science Professional Certificate – Coursera  
+- 🥇 Super Intern – Top Performer in Data Science & ML – Edureka  
+- 📘 Machine Learning & Tableau for Business Intelligence – Edureka
 
 ---
 
