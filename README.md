@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Konduru Jayanth
 
-🎓 B.Tech CSE | Aspiring Data Scientist | CGPA: 9.45/10  
+🎓 B.Tech CSE | Aspiring Data Scientist | CGPA: 9.2/10  
 🔍 Passionate about solving real-world problems using data, ML, and storytelling  
 📊 Certified by IBM and Edureka | “Super Intern” Awardee in Data Science Internship
 
